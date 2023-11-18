@@ -67,6 +67,11 @@
 [![RustRover](https://img.shields.io/badge/RustRover-brown)](https://)
 [![Aqua](https://img.shields.io/badge/Aqua-lightblue)](https://)
 [![MPS](https://img.shields.io/badge/MPS-lightgreen)](https://)
+[![DataSpell](https://img.shields.io/badge/DataSpell-blue)](https://)
+[![CLion](https://img.shields.io/badge/CLion-darkgreen)](https://)
+[![CLion Nova](https://img.shields.io/badge/CLion_Nova-lightgreen)](https://)
+[![Writerside](https://img.shields.io/badge/Writerside-violet)](https://)
+[![Fleet](https://img.shields.io/badge/Fleet-lightblue)](https://)
 
 #### Design
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
