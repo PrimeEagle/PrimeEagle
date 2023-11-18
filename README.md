@@ -97,15 +97,18 @@
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?logo=java&logoColor=white)](https://)
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-red)](https://)
+[![MVC](https://img.shields.io/badge/MVC-blue)](https://)
 [![Node.js](https://img.shields.io/badge/Node.js-green)](https://)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 [![Unity](https://img.shields.io/badge/Unity-lightgray?logo=java&logoColor=white)](https://)
 [![Unreal](https://img.shields.io/badge/Unreal-green?logo=java&logoColor=white)](https://)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+[![MVVM](https://img.shields.io/badge/MVVM-purple)](https://)
 ![Wix Badge](https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=fff&style=flat)
 [![Angular](https://img.shields.io/badge/Angular-darkred?logo=java&logoColor=white)](https://)
 [![ASP](https://img.shields.io/badge/ASP-lightblue?logo=java&logoColor=white)](https://)
 [![Vue](https://img.shields.io/badge/Vue-limegreen)](https://)
+[![MVVM](https://img.shields.io/badge/MVVM-purple)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
