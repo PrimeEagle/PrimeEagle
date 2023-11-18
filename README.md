@@ -99,7 +99,7 @@
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
-[![Emerson](https://img.shields.io/badge/Emerson-blue)](https://)
+[![Emerson](https://img.shields.io/badge/Emerson-darkblue)](https://)
 [![Dell](https://img.shields.io/badge/Dell-blue)](https://)
 [![Newgistics](https://img.shields.io/badge/Newgistics-green)](https://)
 [![MyPlates](https://img.shields.io/badge/MyPlates-red)](https://)
