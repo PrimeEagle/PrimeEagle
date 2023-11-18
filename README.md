@@ -36,6 +36,7 @@
 [![AUT](https://img.shields.io/badge/AUT-blue)](https://)
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-blue?logo=java&logoColor=white)](https://)
 [![Haskell](https://img.shields.io/badge/Haskell-purple?logo=java&logoColor=white)](https://)
+[![Julia](https://img.shields.io/badge/Julia-brightgreen)](https://)
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
