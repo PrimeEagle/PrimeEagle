@@ -63,6 +63,8 @@
 ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat)
 ![DataGrip Badge](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=flat)
 [![RustRover](https://img.shields.io/badge/RustRover-brown)](https://)
+[![Aqua](https://img.shields.io/badge/Aqua-lightblue)](https://)
+[![MPS](https://img.shields.io/badge/MPS-lightgreen)](https://)
 
 #### Design
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
