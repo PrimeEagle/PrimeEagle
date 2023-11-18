@@ -72,6 +72,7 @@
 [![CLion Nova](https://img.shields.io/badge/CLion_Nova-lightgreen)](https://)
 [![Writerside](https://img.shields.io/badge/Writerside-violet)](https://)
 [![Fleet](https://img.shields.io/badge/Fleet-lightblue)](https://)
+[![Windows PowerShell ISE](https://img.shields.io/badge/Windows_PowerShell_ISE-navy)](https://)
 
 #### Design
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
