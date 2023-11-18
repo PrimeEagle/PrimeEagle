@@ -111,5 +111,5 @@
 [![KnowledgeCity](https://img.shields.io/badge/KnowledgeCity-orange)](https://)
 [![HDMA](https://img.shields.io/badge/HDMA-red?logo=java&logoColor=white)](https://)
 [![Enchante](https://img.shields.io/badge/Enchante-darkgreen)](https://)
-[![Austin Golf Properties](https://img.shields.io/badge/Austin_Golf_Properties-red)](https://)
+[![Austin Golf Properties](https://img.shields.io/badge/Austin_Golf_Properties-violet)](https://)
 [![University of Texas at Austin](https://img.shields.io/badge/University_of_Texas_at_Austin-orange)](https://)
