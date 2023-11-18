@@ -103,7 +103,7 @@
 [![Unity](https://img.shields.io/badge/Unity-lightgray?logo=java&logoColor=white)](https://)
 [![Unreal](https://img.shields.io/badge/Unreal-green?logo=java&logoColor=white)](https://)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-[![MVVM](https://img.shields.io/badge/MVVM-purple)](https://)
+[![Avalonia](https://img.shields.io/badge/Avalonia-violet)](https://)
 ![Wix Badge](https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=fff&style=flat)
 [![Angular](https://img.shields.io/badge/Angular-darkred?logo=java&logoColor=white)](https://)
 [![ASP](https://img.shields.io/badge/ASP-lightblue?logo=java&logoColor=white)](https://)
