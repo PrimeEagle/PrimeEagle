@@ -96,6 +96,7 @@
 #### Frameworks
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?logo=java&logoColor=white)](https://)
+[![Entity Framework](https://img.shields.io/badge/Entity_Framework-red)](https://)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 [![Unity](https://img.shields.io/badge/Unity-lightgray?logo=java&logoColor=white)](https://)
 [![Unreal](https://img.shields.io/badge/Unreal-green?logo=java&logoColor=white)](https://)
