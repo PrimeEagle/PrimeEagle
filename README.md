@@ -37,6 +37,10 @@
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-blue?logo=java&logoColor=white)](https://)
 [![Haskell](https://img.shields.io/badge/Haskell-purple?logo=java&logoColor=white)](https://)
 [![Julia](https://img.shields.io/badge/Julia-brightgreen)](https://)
+[![Zig](https://img.shields.io/badge/Zig-orange)](https://)
+[![Roc](https://img.shields.io/badge/Roc-brown)](https://)
+[![Elm](https://img.shields.io/badge/Elm-green)](https://)
+[![Elixir](https://img.shields.io/badge/Elixir-purple)](https://)
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -109,6 +113,7 @@
 [![ASP](https://img.shields.io/badge/ASP-lightblue?logo=java&logoColor=white)](https://)
 [![Vue](https://img.shields.io/badge/Vue-limegreen)](https://)
 [![MVVM](https://img.shields.io/badge/MVVM-purple)](https://)
+[![Flutter](https://img.shields.io/badge/Flutter-cyan)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
