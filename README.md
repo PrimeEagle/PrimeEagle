@@ -99,10 +99,17 @@
 
 #### Frameworks
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
+[![.NET Core](https://img.shields.io/badge/.NET_Core-navy)](https://)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?logo=java&logoColor=white)](https://)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-navy)](https://)
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-red)](https://)
+[![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-darkred)](https://)
+[![Blazor](https://img.shields.io/badge/Blazor-violet)](https://)
+[![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET_WebForms-cyan)](https://)
+[![ASP.NET AJAX](https://img.shields.io/badge/ASP.NET_AJAX-darkgray)](https://)
 [![MVC](https://img.shields.io/badge/MVC-blue)](https://)
 [![Node.js](https://img.shields.io/badge/Node.js-green)](https://)
+[![Express.js](https://img.shields.io/badge/Express.js-lightgray)](https://)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 [![Unity](https://img.shields.io/badge/Unity-lightgray?logo=java&logoColor=white)](https://)
 [![Unreal](https://img.shields.io/badge/Unreal-green?logo=java&logoColor=white)](https://)
@@ -110,10 +117,13 @@
 [![Avalonia](https://img.shields.io/badge/Avalonia-violet)](https://)
 ![Wix Badge](https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=fff&style=flat)
 [![Angular](https://img.shields.io/badge/Angular-darkred?logo=java&logoColor=white)](https://)
+[![React](https://img.shields.io/badge/React-blue)](https://)
 [![ASP](https://img.shields.io/badge/ASP-lightblue?logo=java&logoColor=white)](https://)
 [![Vue](https://img.shields.io/badge/Vue-limegreen)](https://)
 [![MVVM](https://img.shields.io/badge/MVVM-purple)](https://)
 [![Flutter](https://img.shields.io/badge/Flutter-cyan)](https://)
+[![Django](https://img.shields.io/badge/Django-gray)](https://)
+[![Fiber](https://img.shields.io/badge/Fiber-lightblue)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
