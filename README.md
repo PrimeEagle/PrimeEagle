@@ -126,6 +126,10 @@
 [![Flutter](https://img.shields.io/badge/Flutter-cyan)](https://)
 [![Django](https://img.shields.io/badge/Django-gray)](https://)
 [![Fiber](https://img.shields.io/badge/Fiber-lightblue)](https://)
+[![ML.NET](https://img.shields.io/badge/ML.NET-blue)](https://)
+[![MSTest](https://img.shields.io/badge/MSTest-navy)](https://)
+[![MSBuild](https://img.shields.io/badge/MSBuild-green)](https://)
+[![NUnit](https://img.shields.io/badge/NUnit-darkgreen)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
