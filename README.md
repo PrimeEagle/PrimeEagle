@@ -132,6 +132,8 @@
 [![NUnit](https://img.shields.io/badge/NUnit-darkgreen)](https://)
 [![NumPy](https://img.shields.io/badge/NumPy-lightblue)](https://)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)](https://)
+[![PyQt](https://img.shields.io/badge/PyQt-yellow)](https://)
+[![Tkinter](https://img.shields.io/badge/Tkinter-skyblue)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
