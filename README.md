@@ -130,6 +130,8 @@
 [![MSTest](https://img.shields.io/badge/MSTest-navy)](https://)
 [![MSBuild](https://img.shields.io/badge/MSBuild-green)](https://)
 [![NUnit](https://img.shields.io/badge/NUnit-darkgreen)](https://)
+[![NumPy](https://img.shields.io/badge/NumPy-lightblue)](https://)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
