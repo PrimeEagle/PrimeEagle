@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-gitblocks.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=primeeagle&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=primeeagle&theme=blueberry&utcOffset=-6) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=primeeagle&theme=blueberry&exclude=vbnet,vb6)
