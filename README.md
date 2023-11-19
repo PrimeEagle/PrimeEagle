@@ -58,6 +58,8 @@
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 ![Microsoft Access Badge](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoftaccess&logoColor=fff&style=flat)
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat)
+[![Chroma](https://img.shields.io/badge/Chroma-orange)](https://)
+[![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)](https://)
 
 #### IDEs
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
