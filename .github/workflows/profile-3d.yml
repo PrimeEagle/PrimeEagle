@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_CONTRIB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: ${{ env.SETTING_JSON }}
           MAX_LANGUAGES: 12
       - name: Commit & Push
         run: |
