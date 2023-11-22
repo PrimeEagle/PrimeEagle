@@ -120,6 +120,7 @@
 [![Vue](https://img.shields.io/badge/Vue-limegreen)](https://)
 [![MVVM](https://img.shields.io/badge/MVVM-purple)](https://)
 [![Flutter](https://img.shields.io/badge/Flutter-cyan)](https://)
+[![Electron](https://img.shields.io/badge/Electron-skyblue)](https://)
 [![Django](https://img.shields.io/badge/Django-gray)](https://)
 [![Fiber](https://img.shields.io/badge/Fiber-lightblue)](https://)
 [![ML.NET](https://img.shields.io/badge/ML.NET-blue)](https://)
