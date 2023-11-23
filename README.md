@@ -30,6 +30,7 @@
 [![HLSL](https://img.shields.io/badge/HLSL-orange)](https://)
 [![Batch](https://img.shields.io/badge/Batch-yellow)](https://)
 [![AUT](https://img.shields.io/badge/AUT-blue)](https://)
+[![Q#](https://img.shields.io/badge/Q%23-seagreen)](https://)
 [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-blue?logo=java&logoColor=white)](https://)
 [![Haskell](https://img.shields.io/badge/Haskell-purple?logo=java&logoColor=white)](https://)
 [![Julia](https://img.shields.io/badge/Julia-brightgreen)](https://)
