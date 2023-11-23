@@ -72,7 +72,6 @@
 [![Aqua](https://img.shields.io/badge/Aqua-lightblue)](https://)
 [![MPS](https://img.shields.io/badge/MPS-lightgreen)](https://)
 [![DataSpell](https://img.shields.io/badge/DataSpell-blue)](https://)
-[![Writerside](https://img.shields.io/badge/Writerside-pink)](https://)
 [![CLion](https://img.shields.io/badge/CLion-darkgreen)](https://)
 [![CLion Nova](https://img.shields.io/badge/CLion_Nova-lightgreen)](https://)
 [![Writerside](https://img.shields.io/badge/Writerside-violet)](https://)
