@@ -24,6 +24,7 @@
 [![VBA](https://img.shields.io/badge/VBA-yellow)](https://)
 [![T-SQL](https://img.shields.io/badge/T--SQL-orange)](https://)
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-red)](https://)
+[![Razor](https://img.shields.io/badge/Razor-cyan)](https://)
 [![Emerson FST](https://img.shields.io/badge/Emerson_FST-navy)](https://)
 [![Emerson DeltaV](https://img.shields.io/badge/Emerson_DeltaV-yellow)](https://)
 [![HLSL](https://img.shields.io/badge/HLSL-orange)](https://)
@@ -128,11 +129,14 @@
 [![ML.NET](https://img.shields.io/badge/ML.NET-blue)](https://)
 [![MSTest](https://img.shields.io/badge/MSTest-navy)](https://)
 [![MSBuild](https://img.shields.io/badge/MSBuild-green)](https://)
+[![Moq](https://img.shields.io/badge/Moq-yellow)](https://)
 [![NUnit](https://img.shields.io/badge/NUnit-darkgreen)](https://)
 [![NumPy](https://img.shields.io/badge/NumPy-lightblue)](https://)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)](https://)
+[![Ninject](https://img.shields.io/badge/Ninject-lightgray)](https://)
 [![PyQt](https://img.shields.io/badge/PyQt-yellow)](https://)
 [![Tkinter](https://img.shields.io/badge/Tkinter-skyblue)](https://)
+[![SSRS](https://img.shields.io/badge/SSRS-darkgreen)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
