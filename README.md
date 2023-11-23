@@ -33,6 +33,7 @@
 [![Haskell](https://img.shields.io/badge/Haskell-purple?logo=java&logoColor=white)](https://)
 [![Julia](https://img.shields.io/badge/Julia-brightgreen)](https://)
 [![Zig](https://img.shields.io/badge/Zig-orange)](https://)
+[![Perl](https://img.shields.io/badge/Perl-cyan)](https://)
 [![Roc](https://img.shields.io/badge/Roc-brown)](https://)
 [![Elm](https://img.shields.io/badge/Elm-green)](https://)
 [![Elixir](https://img.shields.io/badge/Elixir-purple)](https://)
