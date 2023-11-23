@@ -39,6 +39,9 @@
 [![Roc](https://img.shields.io/badge/Roc-brown)](https://)
 [![Elm](https://img.shields.io/badge/Elm-green)](https://)
 [![Elixir](https://img.shields.io/badge/Elixir-purple)](https://)
+[![OpenQASM](https://img.shields.io/badge/OpenQASM-violet)](https://)
+[![Silq](https://img.shields.io/badge/Silq-powderblue)](https://)
+[![Quipper](https://img.shields.io/badge/Quipper-crimson)](https://)
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -136,9 +139,11 @@
 [![NumPy](https://img.shields.io/badge/NumPy-lightblue)](https://)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)](https://)
 [![Ninject](https://img.shields.io/badge/Ninject-lightgray)](https://)
+[![ANTLR](https://img.shields.io/badge/ANTLR-darkred)](https://)
 [![PyQt](https://img.shields.io/badge/PyQt-yellow)](https://)
 [![Tkinter](https://img.shields.io/badge/Tkinter-skyblue)](https://)
 [![SSRS](https://img.shields.io/badge/SSRS-darkgreen)](https://)
+[![ProjectQ](https://img.shields.io/badge/ProjectQ-crimson)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
