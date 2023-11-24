@@ -149,6 +149,7 @@
 [![Tkinter](https://img.shields.io/badge/Tkinter-skyblue)](https://)
 [![SSRS](https://img.shields.io/badge/SSRS-darkgreen)](https://)
 [![ProjectQ](https://img.shields.io/badge/ProjectQ-crimson)](https://)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-orange)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
