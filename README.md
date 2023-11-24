@@ -39,6 +39,7 @@
 [![Zig](https://img.shields.io/badge/Zig-orange)](https://)
 [![Perl](https://img.shields.io/badge/Perl-cyan)](https://)
 [![Roc](https://img.shields.io/badge/Roc-brown)](https://)
+[![Bash](https://img.shields.io/badge/Bash-maroon)](https://)
 [![Elm](https://img.shields.io/badge/Elm-green)](https://)
 [![Elixir](https://img.shields.io/badge/Elixir-purple)](https://)
 [![OpenQASM](https://img.shields.io/badge/OpenQASM-violet)](https://)
