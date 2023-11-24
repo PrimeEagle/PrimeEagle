@@ -79,6 +79,7 @@
 [![DataSpell](https://img.shields.io/badge/DataSpell-blue)](https://)
 [![CLion](https://img.shields.io/badge/CLion-darkgreen)](https://)
 [![CLion Nova](https://img.shields.io/badge/CLion_Nova-lightgreen)](https://)
+[![Neovim](https://img.shields.io/badge/Neovim-blue)](https://)
 [![Writerside](https://img.shields.io/badge/Writerside-violet)](https://)
 [![Fleet](https://img.shields.io/badge/Fleet-lightblue)](https://)
 [![Windows PowerShell ISE](https://img.shields.io/badge/Windows_PowerShell_ISE-navy)](https://)
