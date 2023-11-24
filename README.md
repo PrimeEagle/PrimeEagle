@@ -42,6 +42,7 @@
 [![Elm](https://img.shields.io/badge/Elm-green)](https://)
 [![Elixir](https://img.shields.io/badge/Elixir-purple)](https://)
 [![OpenQASM](https://img.shields.io/badge/OpenQASM-violet)](https://)
+[![Pharo](https://img.shields.io/badge/Pharo-blue)](https://)
 [![Scala](https://img.shields.io/badge/Scala-darkred)](https://)
 [![Silq](https://img.shields.io/badge/Silq-powderblue)](https://)
 [![Quipper](https://img.shields.io/badge/Quipper-crimson)](https://)
@@ -86,6 +87,7 @@
 [![Writerside](https://img.shields.io/badge/Writerside-violet)](https://)
 [![Fleet](https://img.shields.io/badge/Fleet-lightblue)](https://)
 [![Windows PowerShell ISE](https://img.shields.io/badge/Windows_PowerShell_ISE-navy)](https://)
+[![Pharo](https://img.shields.io/badge/Pharo-blue)](https://)
 
 #### Design
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
