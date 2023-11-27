@@ -100,6 +100,9 @@
 [![OBS Studio](https://img.shields.io/badge/OBS_Studio-gray?logo=java&logoColor=white)](https://)
 [![Blender](https://img.shields.io/badge/Blender-orange?logo=java&logoColor=white)](https://)
 [![GIMP](https://img.shields.io/badge/GIMP-yellow?logo=java&logoColor=white)](https://)
+[![Maya](https://img.shields.io/badge/Maya-lightblue)](https://)
+[![3ds Max](https://img.shields.io/badge/3ds_Max-cyan)](https://)
+[![Arnold](https://img.shields.io/badge/Arnold-skyblue)](https://)
 
 #### Source Control
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
