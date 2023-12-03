@@ -59,6 +59,7 @@
 ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=flat)
 [![HTML](https://img.shields.io/badge/HTML-green)](https://)
 [![XML](https://img.shields.io/badge/XML-darkred)](https://)
+[![C# Markdown](https://img.shields.io/badge/C%23_Markdown-brightgreen)](https://)
 
 #### Databases
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
