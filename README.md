@@ -91,6 +91,12 @@
 [![Fleet](https://img.shields.io/badge/Fleet-lightblue)](https://)
 [![Windows PowerShell ISE](https://img.shields.io/badge/Windows_PowerShell_ISE-navy)](https://)
 [![Pharo](https://img.shields.io/badge/Pharo-blue)](https://)
+[![iXedit](https://img.shields.io/badge/iXedit-lightgray)](https://)
+[![NimbleText](https://img.shields.io/badge/NimbleText-blue)](https://)
+[![NimbleSET](https://img.shields.io/badge/NimbleSET-yellow)](https://)
+[![MarkdownPad 2](https://img.shields.io/badge/MarkdownPad_2-blue)](https://)
+[![Notepad2](https://img.shields.io/badge/Notepad2-lightblue)](https://)
+[![LINQPad7](https://img.shields.io/badge/LINQPad7-darkgray)](https://)
 
 #### Design
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
