@@ -49,6 +49,9 @@
 [![Quipper](https://img.shields.io/badge/Quipper-crimson)](https://)
 [![Erlang](https://img.shields.io/badge/Erlang-maroon)](https://)
 [![C# Script](https://img.shields.io/badge/C%23_Script-brightgreen)](https://)
+[![SQL](https://img.shields.io/badge/SQL-orange)](https://)
+[![GQL](https://img.shields.io/badge/GQL-purple)](https://)
+[![GraphQL](https://img.shields.io/badge/GraphQL-crimson)](https://)
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
