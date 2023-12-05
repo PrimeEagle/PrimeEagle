@@ -97,7 +97,7 @@
 [![CLion Nova](https://img.shields.io/badge/CLion_Nova-lightgreen)](https://)
 [![Neovim](https://img.shields.io/badge/Neovim-blue)](https://)
 [![Writerside](https://img.shields.io/badge/Writerside-violet)](https://)
-[![ChainShot Builder](https://img.shields.io/badge/ChainShot_Builder-#555588)](https://)
+[![ChainShot Builder](https://img.shields.io/static/v1?label=&message=ChainShot+Builder&color=%23555588)](https://)
 [![Fleet](https://img.shields.io/badge/Fleet-lightblue)](https://)
 [![Windows PowerShell ISE](https://img.shields.io/badge/Windows_PowerShell_ISE-navy)](https://)
 [![Pharo](https://img.shields.io/badge/Pharo-blue)](https://)
