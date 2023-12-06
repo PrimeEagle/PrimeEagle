@@ -80,6 +80,7 @@
 #### IDEs
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+[![VSCodium](https://img.shields.io/badge/VSCodium-limegreen)](https://)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=flat)
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
 [![GoLand](https://img.shields.io/badge/GoLand-lightgreen?logo=java&logoColor=white)](https://)
