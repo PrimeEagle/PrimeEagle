@@ -109,6 +109,13 @@
 [![MarkdownPad 2](https://img.shields.io/badge/MarkdownPad_2-blue)](https://)
 [![Notepad2](https://img.shields.io/badge/Notepad2-lightblue)](https://)
 [![LINQPad7](https://img.shields.io/badge/LINQPad7-darkgray)](https://)
+[![NetBeans](https://img.shields.io/badge/NetBeans-darkred)](https://)
+[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-cyan)](https://)
+[![Xcode](https://img.shields.io/badge/Xcode-blue)](https://)
+[![Eclipse](https://img.shields.io/badge/Eclipse-navy)](https://)
+[![Geany](https://img.shields.io/badge/Geany-yellow)](https://)
+[![Thonny](https://img.shields.io/badge/Thonny-darkgray)](https://)
+[![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-darkgreen)](https://)
 
 #### Design
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
@@ -177,6 +184,17 @@
 [![SSRS](https://img.shields.io/badge/SSRS-darkgreen)](https://)
 [![ProjectQ](https://img.shields.io/badge/ProjectQ-crimson)](https://)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-orange)](https://)
+
+#### Platforms
+[![Windows](https://img.shields.io/badge/Windows-blue)](https://)
+[![iOS](https://img.shields.io/badge/iOS-silver)](https://)
+[![Arduino](https://img.shields.io/badge/Arduino-cyan)](https://)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-red)](https://)
+[![Linux](https://img.shields.io/badge/Linux-orange)](https://)
+[![SunOS](https://img.shields.io/badge/SunOS-ccccff)](https://)
+[![OpenVMS](https://img.shields.io/badge/OpenVMS-0000ee)](https://)
+[![OS/2](https://img.shields.io/badge/OS%2F2-darkgreen)](https://)
+[![MS-DOS](https://img.shields.io/badge/MS--DOS-navy)](https://)
 
 #### Employers and Clients
 [![Fisher-Rosemount](https://img.shields.io/badge/Fisher--Rosemount-darkred)](https://)
