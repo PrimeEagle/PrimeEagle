@@ -184,9 +184,11 @@
 [![ANTLR](https://img.shields.io/badge/ANTLR-darkred)](https://)
 [![PyQt](https://img.shields.io/badge/PyQt-yellow)](https://)
 [![Tkinter](https://img.shields.io/badge/Tkinter-skyblue)](https://)
+[![htmx](https://img.shields.io/badge/htmx-red)](https://)
 [![SSRS](https://img.shields.io/badge/SSRS-darkgreen)](https://)
 [![ProjectQ](https://img.shields.io/badge/ProjectQ-crimson)](https://)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-orange)](https://)
+[![ASP.NET Core Minimal API](https://img.shields.io/badge/ASP.NET_Core_Minimal_API-blue)](https://)
 
 #### Platforms
 [![Windows](https://img.shields.io/badge/Windows-blue)](https://)
