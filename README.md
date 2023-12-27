@@ -133,6 +133,13 @@
 [![Maya](https://img.shields.io/badge/Maya-lightblue)](https://)
 [![3ds Max](https://img.shields.io/badge/3ds_Max-cyan)](https://)
 [![Arnold](https://img.shields.io/badge/Arnold-skyblue)](https://)
+[![MindTex 2](https://img.shields.io/badge/MindTex_2-brown)](https://)
+[![Aseprite](https://img.shields.io/badge/Aseprite-skyblue)](https://)
+[![Fluid FX](https://img.shields.io/badge/Fluid_FX-orange)](https://)
+[![SpriteMancer](https://img.shields.io/badge/SpriteMancer-blue)](https://)
+[![PixelOver](https://img.shields.io/badge/PixelOver-gray)](https://)
+[![Pixelpart](https://img.shields.io/badge/Pixelpart-turquoise)](https://)
+[![Shadron](https://img.shields.io/badge/Shadron-violet)](https://)
 
 #### Source Control
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
