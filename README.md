@@ -62,6 +62,7 @@
 ![Mathematica](https://img.shields.io/badge/Mathematica-crimson)
 ![MATLAB](https://img.shields.io/badge/MATLAB-blue)
 ![Idris](https://img.shields.io/badge/Idris-darkred)
+![Kotlin](https://img.shields.io/badge/Kotlin-violet)
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
