@@ -64,6 +64,7 @@
 ![Idris](https://img.shields.io/badge/Idris-darkred)
 ![Kotlin](https://img.shields.io/badge/Kotlin-violet)
 ![Pkl](https://img.shields.io/badge/Pkl-darkgreen)
+![Koka](https://img.shields.io/badge/Koka-lightblue)
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
