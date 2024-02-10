@@ -65,6 +65,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-violet)
 ![Pkl](https://img.shields.io/badge/Pkl-darkgreen)
 ![Koka](https://img.shields.io/badge/Koka-lightblue)
+![Eff](https://img.shields.io/badge/Eff-orange)
+![Unison](https://img.shields.io/badge/Unison-lightgreen)
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
