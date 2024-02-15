@@ -16,7 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_CONTRIB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_LANGUAGES: 12
-          IGNORE_LANGUAGES: "Visual Basic.NET,Visual Basic 6.0,VBA,ASP.NET"
+          IGNORE_LANGUAGES: "Visual Basic.NET,Visual Basic 6.0,VBA,ASP.NET,Smalltalk,Batchfile,XSLT"
       - name: Commit & Push
         run: |
           git config user.name github-actions
