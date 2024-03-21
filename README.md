@@ -132,6 +132,7 @@
 ![Geany](https://img.shields.io/badge/Geany-yellow)
 ![Thonny](https://img.shields.io/badge/Thonny-darkgray)
 ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-darkgreen)
+![Xtext](https://img.shields.io/badge/Xtext-darkgray)
 
 #### Design
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
