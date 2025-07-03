@@ -85,6 +85,7 @@
 ![C# Markdown](https://img.shields.io/badge/C%23_Markdown-brightgreen)
 ![TOML](https://img.shields.io/badge/TOML-brown)
 ![Liquid](https://img.shields.io/badge/Liquid-lightblue)
+![JSX](https://img.shields.io/badge/JSX-red)
 
 #### Databases
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
