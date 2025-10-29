@@ -12,7 +12,7 @@
 ![Rust](https://img.shields.io/badge/Rust-brown?logo=java&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Visual Basic Badge](https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=flat)
-![F# Badge](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff&style=flat)
+![F# Badge](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff&style=flat
 ![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -177,6 +177,7 @@
 ![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET_WebForms-cyan)
 ![ASP.NET AJAX](https://img.shields.io/badge/ASP.NET_AJAX-darkgray)
 ![MVC](https://img.shields.io/badge/MVC-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Express.js](https://img.shields.io/badge/Express.js-lightgray)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
